@@ -14,5 +14,5 @@ under a git repo with submodules.
 2. For each submodules:
    1. `cd` to the submodule directory
    2. `git fetch origin master`
-   3. Print `git log --oneline HEAD..origin/master` result
+   3. Print `git log --oneline HEAD..origin/master` output
 
